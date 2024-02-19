@@ -36,7 +36,7 @@ Each sorting algorithm is implemented as a separate function in the provided C f
   - Best Case: O(n)
   - Worst Case: O(n^2)
   - Average Case: O(n^2)
-  
+
 - Selection Sort:
   - Best Case: O(n^2)
   - Worst Case: O(n^2)
